@@ -1,4 +1,4 @@
-# 🧠ChatGPT 中文调教指南[![惊人的](https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome)
+# 🧠ChatGPT 中文使用指南[![惊人的](https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome)
 
 ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，能够生成类人文本。通过向它提供提示，它可以生成继续对话或扩展给定提示的响应。
 
@@ -8,32 +8,17 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 <img src="https://user-images.githubusercontent.com/15922823/219698816-5196a5a0-7669-495e-a1d3-02fdadd3f507.png" width="400"/> 
   <p>本LOGO由AI生成</p>
 </div>
-
-[点击这里](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/edit/main/README.md) 可以将您自己的调教指南添加到列表中。
+[点击这里](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/edit/main/README.md) 可以将您自己的使用指南添加到列表中。
 
 只需使用 README.md 文件中的提示作为 ChatGPT 的输入。您还可以使用此文件中的提示作为创建您自己的提示的灵感。
 
-我们希望您发现这些调教指南很有用，并能从使用 ChatGPT 中获得乐趣！
+我们希望您发现这些使用指南很有用，并能从使用 ChatGPT 中获得乐趣！
 
 **[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
 
 **[在 Gitee 上查看](https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh)**
 
 ------
-
-## 图片实例
-
-#### [一些有趣的玩法](./USEAGE.md)
-
-
-
-## 解除封印咒语
-
-#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在这里 [猫娘持续讨论更新](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12)
-
-#### [更多猫娘玩法点这个](./cat.md)
-
-
 
 ## 它能干什么? 直接问它
 
@@ -66,30 +51,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 10. 聊天。我能够通过文字和用户进行交流，提供娱乐和放松。
 
-## 微信体验交流群
-
-加入ChatGPT体验交流群，与AI技术领域的专家和爱好者一起探讨最前沿的信息！在这里，你可以体验到最先进的人工智能技术，与志同道合的人交流，共同提升你的知识水平。不管你是专业人士还是爱好者，都欢迎加入我们的群体！
-
-项目合作洽谈请联系微信`plexpt`（在微信里自行搜索并添加好友，请注明来意，如有关于仓库问题需讨论请参考下文入群讨论，不要加此微信）。
-
-|                    直接加群                     |               如果前面的无法使用，加我拉你入群               |                          国内中文体验公众号                          |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/15922823/218474463-827042d2-a88b-4ac1-a00d-6175fc53ed44.png" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/218671603-2f4015fe-51e6-4252-bdd3-51daca0e5d33.png" width="300"/> |  <img src="https://user-images.githubusercontent.com/15922823/218004565-bb632624-b376-4f01-8ce2-d7065107bf4a.png" width="300"/> |
-  
- 
-
-
-## 加入星球
-
-非常感激您对此项目的关注和支持。我一直在努力，提供最有价值和易于理解的指南。如果您觉得我的项目对您有所帮助，想进一步了解更进，可以加入我的知识星球。扫码了解详情：
-
-| 知识星球         | 微信赞赏      | 
-| ------------ | ------------ | 
-| <img src="https://user-images.githubusercontent.com/15922823/218308300-0791ed4a-4c27-4358-ae77-21f910249291.png" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/217595380-ed95381c-271d-4aba-98a1-3cfd8cf5ed73.png" width="300"/> |
-
-
-
-# 正经指南
+# 指南
 
 ## 充当 Linux 终端
 
@@ -644,3 +606,27 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 ## 感谢
 
 [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) 
+
+
+## 微信体验交流群
+
+加入ChatGPT体验交流群，与AI技术领域的专家和爱好者一起探讨最前沿的信息！在这里，你可以体验到最先进的人工智能技术，与志同道合的人交流，共同提升你的知识水平。不管你是专业人士还是爱好者，都欢迎加入我们的群体！
+
+项目合作洽谈请联系微信`plexpt`（在微信里自行搜索并添加好友，请注明来意，如有关于仓库问题需讨论请参考下文入群讨论，不要加此微信）。
+
+|                    直接加群                     |               如果前面的无法使用，加我拉你入群               |                          国内中文体验公众号                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://user-images.githubusercontent.com/15922823/218474463-827042d2-a88b-4ac1-a00d-6175fc53ed44.png" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/218671603-2f4015fe-51e6-4252-bdd3-51daca0e5d33.png" width="300"/> |  <img src="https://user-images.githubusercontent.com/15922823/218004565-bb632624-b376-4f01-8ce2-d7065107bf4a.png" width="300"/> |
+
+ 
+
+
+## 加入星球
+
+非常感激您对此项目的关注和支持。我一直在努力，提供最有价值和易于理解的指南。如果您觉得我的项目对您有所帮助，想进一步了解更进，可以加入我的知识星球。扫码了解详情：
+
+| 知识星球         | 微信赞赏      |
+| ------------ | ------------ |
+| <img src="https://user-images.githubusercontent.com/15922823/218308300-0791ed4a-4c27-4358-ae77-21f910249291.png" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/217595380-ed95381c-271d-4aba-98a1-3cfd8cf5ed73.png" width="300"/> |
+
+
